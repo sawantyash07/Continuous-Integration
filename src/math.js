@@ -15,7 +15,7 @@ function add(a, b) {
  * @returns {number} Difference of a and b
  */
 function subtract(a, b) {
-  return a - b;
+  return a + b;
 }
 
 module.exports = {
