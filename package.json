@@ -1,0 +1,17 @@
+{
+  "name": "js-project-with-jest",
+  "version": "1.0.0",
+  "description": "JavaScript project with Jest for unit testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage"
+  },
+  "keywords": ["javascript", "jest", "testing"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
